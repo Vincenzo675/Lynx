@@ -39,7 +39,7 @@ global.APIKeys = {
 global.BOT_NAME = "𝕷𝖞𝖓𝖝"   
 global.THUMBNAIL = "./File/image/lol.jpg"
 global.DONASI = "./File/image/donasi.jpg"
-global.language = english
+global.language = indonesia
 global.lang = language //don't change
 
 /*--------------------------------------------*/
