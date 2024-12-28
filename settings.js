@@ -9,19 +9,19 @@ const {
 /*--------------------------------------------*/
 
 // Owner
-global.ownername = '𝐓𝐨𝐱𝐱𝐢𝐜 𝐁𝐨𝐲' //ur owner name
+global.ownername = '~V i Nㄷㅌ' //ur owner name
 /*--------------------------------------------*/
 
 // Information
-global.botname = '𝑸𝒖𝒆𝒆𝒏 𝑹𝒊𝒂𝒔 𝑽𝟐' //ur bot name
-global.ownernumber = '2348165846414' //ur owner number
-global.premium = ["2348165846414"] // Premium User
+global.botname = '𝕷𝖞𝖓𝖝' //ur bot name
+global.ownernumber = '916909297247' //ur owner number
+global.premium = ["916909297247"] // Premium User
 /*--------------------------------------------*/
 // Type Choose true or false
 global.typemenu = 'v1' // menu type 'v1' => 'v12'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
-global.autoblocknumber = '92' //set autoblock country code
-global.antiforeignnumber = '91' //set anti foreign number country code
+global.autoblocknumber = '' //set autoblock country code
+global.antiforeignnumber = '' //set anti foreign number country code
 global.welcome = false //welcome/left in groups
 global.anticall = false //bot blocks user when called
 global.autoswview = false //auto status/story view
@@ -30,16 +30,16 @@ global.groupevent = false //show update messages in group chat
 /*-----------------------------------------------------*/
 
 // Telegram
-global.OWNER = ["2348165846414"]
-global.OWNER_NAME = "𝑻𝑶𝑿𝑿𝑰𝑪 𝑩𝑶𝒀"
+global.OWNER = ["918787487369"]
+global.OWNER_NAME = "~V i Nㄷㅌ"
 global.BOT_TOKEN = '-'
 global.APIKeys = {
    'https://api.zeeoneofc.my.id': '-',
 }   
-global.BOT_NAME = "𝑸𝑼𝑬𝑬𝑵 𝑹𝑰𝑨𝑺 𝑽𝟐"   
+global.BOT_NAME = "𝕷𝖞𝖓𝖝"   
 global.THUMBNAIL = "./File/image/lol.jpg"
 global.DONASI = "./File/image/donasi.jpg"
-global.language = indonesia
+global.language = english
 global.lang = language //don't change
 
 /*--------------------------------------------*/
